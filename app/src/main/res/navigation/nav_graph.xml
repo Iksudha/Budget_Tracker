@@ -86,4 +86,9 @@
         android:name="com.example.expensetracker.ui.SettingsFragment"
         android:label="@string/settings"
         tools:layout="@layout/fragment_settings" />
+    <activity
+        android:id="@+id/budgetFragment"
+        android:name="com.example.expensetracker.ui.Budget_List"
+        android:label="Budget"
+        tools:layout="@layout/activity_budget_list" />
 </navigation>
