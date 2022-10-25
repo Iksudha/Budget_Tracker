@@ -11,6 +11,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ExpenseTracker">
         <activity
+            android:name=".ui.EditBudget"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name=".ui.Add_Budget"></activity>
+        <activity android:name=".ui.Budget_List" />
+        <activity
             android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
