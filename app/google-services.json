@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580193992019",
+    "project_id": "budget-tracker-bec70",
+    "storage_bucket": "budget-tracker-bec70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580193992019:android:aae75d880bf24ce9e775a6",
+        "android_client_info": {
+          "package_name": "com.expensify.budgettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580193992019-fv0et1ujel5s8gimps2d3bbm7jvpdrgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2eVye2rKdki85_qqRD4R4CrrwljnPVys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580193992019-fv0et1ujel5s8gimps2d3bbm7jvpdrgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

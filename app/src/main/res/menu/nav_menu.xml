@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_transaction"
+        android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+        android:title=""
+        app:cnb_backgroundColor="#4096C1F6"
+        app:cnb_iconColor="@color/blue_500" />
+
+    <item
+        android:id="@+id/ic_budget"
+        android:icon="@drawable/ic_calculate"
+        android:title=""
+        app:cnb_backgroundColor="#4096C1F6"
+        app:cnb_iconColor="@color/blue_500" />
+
+
+    <item
+        android:id="@+id/blank2"
+        android:title=""
+        android:enabled="false"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/ic_Calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title=""
+        app:cnb_backgroundColor="#4096C1F6"
+        app:cnb_iconColor="@color/blue_500" />
+
+    <item
+        android:id="@+id/ic_account"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title=""
+        app:cnb_backgroundColor="#4096C1F6"
+        app:cnb_iconColor="@color/blue_500" />
+</menu>
